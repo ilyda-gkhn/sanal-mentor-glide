@@ -27,19 +27,19 @@ Bu çalışma, kod yazmadan veri kaynağı, kullanıcı arayüzü ve kullanıcı
 
 ### Mentor listesi
 
-![Sanal Mentor mentor listesi](screenshots/mentor-list.png)
+![Sanal Mentor mentor listesi](mentor-list.png)
 
 ### Mentor ekleme
 
-![Sanal Mentor yeni mentor ekleme ekranı](screenshots/add-mentor.png)
+![Sanal Mentor yeni mentor ekleme ekranı](add-mentor.png)
 
 ### Kullanıcı ekranı
 
-![Sanal Mentor kullanıcı ekranı](screenshots/users.png)
+![Sanal Mentor kullanıcı ekranı](users.png)
 
 ## Proje raporu
 
-Çalışmanın amacı, kullanılan teknolojiler, uygulamanın çalışma mantığı ve değerlendirmesi `docs/sanal-mentor-proje-raporu.pdf` dosyasında yer almaktadır.
+Çalışmanın amacı, kullanılan teknolojiler, uygulamanın çalışma mantığı ve değerlendirmesi `sanal-mentor-proje-raporu.pdf` dosyasında yer almaktadır.
 
 ## Canlı demo
 
